@@ -1,0 +1,129 @@
+header{
+    width: 1600px;
+    height: 808px;
+    left: 1600px;
+    top: 808px;
+    }
+.b {background-image: url(../assignment1/images/banner/banner1.png);
+    width: 1600px;
+    height: 808px;
+    left: 1600px;
+    top: 808px;
+background-repeat: no-repeat;}
+
+.b-title{height: 228px;
+    width: 525px;
+    left: 845px;
+    top: 216px;
+    border-radius: nullpx;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0em;
+    text-align: right;
+    }
+.b-dis {height: 78px;
+    width: 494px;
+    left: 876px;
+    top: 468px;
+    border-radius: nullpx;
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: right;}
+
+
+.m-title {position: left;
+    height: 400px;
+    width: 416px;
+    left: 862px;
+    top: 1178px;
+    border-radius: 0px;
+    }
+    .full{
+    gap: 50px;
+    height: 400px;
+    width: 416px;
+    left: 862px;
+    top: 1178px;
+    border-radius: 0px;
+    }
+
+.person {
+    gap: 50px;
+    height: 723.3px;
+    width: 569px;
+    left: 198px;
+    top: 934px;
+    border-radius: 0px;
+    }
+
+    main{ height: 723.3px;
+        width: 1134px;
+        left: 236px;
+        top: 928px;
+        border-radius: 0px;
+    }
+
+
+section {height: 299.0px;
+    width: 1141px;
+    left: 230px;
+    top: 1792.2998046875px;
+    border-radius: 0px;
+    }
+    
+    .s-title {text-align: center;}
+    .web {display: flex;
+
+    gap: 20px;}
+
+    .java {display: flex;
+    gap: 20px;}
+
+    .smoke {display: flex;
+    gap: 20px;}
+
+    .eco {display: flex;
+    gap: 20px;}
+
+.s-2 {background-image: url(../assignment1/images/gradient1.png);
+    height: 300px;
+    width: 1140px;
+    left: 230px;
+    top: 2222.25830078125px;
+    border-radius: 8px;
+    }
+
+    .s-3 {
+        display: flex;
+        gap: 45px ;
+        height: 317px;
+        width: 485px;
+        left: 230px;
+        top: 2782.25830078125px;
+        border-radius: 0px;
+        }
+
+        .bt {
+            height: 204px;
+width: 325px;
+left: 1046px;
+top: 2782.25830078125px;
+border-radius: 8px;
+color: #db7500;
+            background-color: #FFFFFF;
+        }
+
+section3{height: 577px;
+    width: 1600px;
+    left: 0px;
+    top: 2632px;
+    border-radius: 0px;
+    background-color: black;}
+
+
+    
